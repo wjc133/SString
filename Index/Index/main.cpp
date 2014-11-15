@@ -10,6 +10,12 @@
 #include <stdlib.h>
 #include <string.h>
 
+typedef int ElemType;
+typedef char SLElemType;
+#include "HString.h"
+#include "LinkList.h"
+#include "SqList.h"
+
 #define  TRUE   1
 #define  FALSE   0
 #define  OK    1

@@ -30,6 +30,7 @@
 		A3DDD3021A1748E6006C6032 /* Index.1 */ = {isa = PBXFileReference; lastKnownFileType = text.man; path = Index.1; sourceTree = "<group>"; };
 		A3DDD3091A174A4E006C6032 /* HString.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HString.h; sourceTree = "<group>"; };
 		A3DDD30B1A174A99006C6032 /* LinkList.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = LinkList.h; sourceTree = "<group>"; };
+		A3DDD30C1A175238006C6032 /* SqList.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SqList.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +65,7 @@
 			children = (
 				A3DDD3091A174A4E006C6032 /* HString.h */,
 				A3DDD3001A1748E6006C6032 /* main.cpp */,
+				A3DDD30C1A175238006C6032 /* SqList.h */,
 				A3DDD3021A1748E6006C6032 /* Index.1 */,
 				A3DDD30B1A174A99006C6032 /* LinkList.h */,
 			);
